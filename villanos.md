@@ -5,3 +5,4 @@
 3. Green Goblin
 4. Thanos
 5. Galactus 
+6. Dr. Malito
